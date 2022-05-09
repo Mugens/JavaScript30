@@ -80,24 +80,24 @@ h2 {
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-.controls{
+.controls {
   display: flex;
   justify-content: space-between;
   padding-top: 15px;
 }
 
-.controls>input{
+.controls > input {
   color: #fff;
   border: transparent;
   font-weight: 600;
   padding: 10px 5px;
 }
-.btn-reset{
+.btn-reset {
   background-color: #f00;
 }
-.btn-checked{
+.btn-checked {
   background-color: limegreen;
 }
-.btn-unchecked{
+.btn-unchecked {
   background-color: #00f;
 }
